@@ -4,7 +4,7 @@ scene
 	{
 		shader:default;
 		depth:10;
-		antialiasing:1;
+		antialiasing:4;
 		blindlight:0;
 	}
 	camera
